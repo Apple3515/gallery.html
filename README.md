@@ -1,1 +1,32 @@
-# gallery.html
+<html>
+<head>
+<title>“Photography is the story I fail to put into words.”</title>
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    
+	
+	</head>
+	
+	<body>
+		<div class="GALLERY">
+			<ul>
+					    <ul class="main-nav">
+					    <li><a href="C:\websitehtml\gallery.html">HOME</a></li>
+		                <li><a href="C:\websitehtml\profile.html">GALLERY</a></li>
+						<li><a href="profile.html">PROFILE<a></li>
+						<li><a href="sign.html">SIGN UP<a></li>
+					
+				</ul>
+					
+				
+
+		</div>
+		
+	
+	
+	
+	 
+</body>
+	
+	
+	
+	</html>
